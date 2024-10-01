@@ -19,6 +19,6 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 
 In your solution you must provide the following in your Github link account:
 
-  Problem statement (description of the problem. Just copy what is stated here.
-  UML Class Diagram
-  Uploaded java codes for the solution.
+  * Problem statement (description of the problem. Just copy what is stated here.
+  * Uploaded java codes for the solution.
+  * UML Class Diagram
