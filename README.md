@@ -22,3 +22,4 @@ In your solution you must provide the following in your Github link account:
   * Problem statement (description of the problem. Just copy what is stated here.
   * Uploaded java codes for the solution.
   * UML Class Diagram
+![Lab Assignment 4 Facade Patern](https://github.com/user-attachments/assets/46347540-59df-451a-b7c8-e32eff5c7e93)
